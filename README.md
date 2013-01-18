@@ -1,14 +1,16 @@
 Fun-With-Arduino
-----------------
+================
 
-### Multiple LEDs
-#### YouTube
+Multiple LEDs
+-------------
+
+### YouTube
 http://www.youtube.com/watch?v=FXiCFV9QJjE
 
-#### Schematic
+### Schematic
 ![Schematic](https://raw.github.com/tswr/Fun-With-Arduino/master/multiple_leds/multiple_leds_schematic_small.png)
 
-#### Breadboard
+### Breadboard
 ![Breadboard](https://raw.github.com/tswr/Fun-With-Arduino/master/multiple_leds/multiple_leds_breadboard_small.png)
 
 

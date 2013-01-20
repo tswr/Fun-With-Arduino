@@ -1,12 +1,3 @@
-/**
- * Copyright 2012 Dmitri Kornev
- *
- * @date    Jan 18, 2013
- * @author  "Dmitri Kornev" <d.v.kornev@gmail.com>
- *
- * @brief   
- */
-
 const int leds[] = {13,12,11,10,9,8,7,6,5,4};
 const int num_of_leds = sizeof(leds) / sizeof(int);
 

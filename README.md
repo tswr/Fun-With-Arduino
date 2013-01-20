@@ -37,3 +37,11 @@ https://github.com/tswr/Fun-With-Arduino/blob/master/led_switch_serial/led_switc
 ### Breadboard
 ![Breadboard](https://raw.github.com/tswr/Fun-With-Arduino/master/led_switch_serial/led_switch_serial_breadboard.jpg)
 
+Temperature measurement (dht11)
+-------------------------------
+
+### Source Code
+https://github.com/tswr/Fun-With-Arduino/blob/master/dht11/dht11.ino
+
+### Breadboard
+![Breadboard](https://raw.github.com/tswr/Fun-With-Arduino/master/dht11/dht11_breadboard.jpg)

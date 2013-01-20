@@ -48,3 +48,12 @@ https://github.com/tswr/Fun-With-Arduino/blob/master/dht11/dht11.ino
 
 ### Breadboard
 ![Breadboard](https://raw.github.com/tswr/Fun-With-Arduino/master/dht11/dht11_breadboard.jpg)
+
+Digital thermometer (digital_thermometer)
+-----------------------------------------
+
+### Source Code
+https://github.com/tswr/Fun-With-Arduino/blob/master/digital_thermometer/digital_thermometer.ino
+
+### Breadboard
+![Breadboard](https://raw.github.com/tswr/Fun-With-Arduino/master/digital_thermometer/digital_thermometer_breadboard.jpg)

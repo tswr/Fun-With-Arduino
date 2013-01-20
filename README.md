@@ -55,5 +55,11 @@ Digital thermometer (digital_thermometer)
 ### Source Code
 https://github.com/tswr/Fun-With-Arduino/blob/master/digital_thermometer/digital_thermometer.ino
 
+### Breadboard Photo
+![Breadboard](https://raw.github.com/tswr/Fun-With-Arduino/master/digital_thermometer/digital_thermometer_breadboard_pic.jpg)
+
 ### Breadboard
 ![Breadboard](https://raw.github.com/tswr/Fun-With-Arduino/master/digital_thermometer/digital_thermometer_breadboard.jpg)
+
+### Schematic
+![Breadboard](https://raw.github.com/tswr/Fun-With-Arduino/master/digital_thermometer/digital_thermometer_schematic.jpg)

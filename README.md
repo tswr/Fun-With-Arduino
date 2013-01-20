@@ -40,6 +40,9 @@ https://github.com/tswr/Fun-With-Arduino/blob/master/led_switch_serial/led_switc
 Temperature measurement (dht11)
 -------------------------------
 
+### About DHT11 Humidity & Temperature Sensor
+http://www.micro4you.com/files/sensor/DHT11.pdf
+
 ### Source Code
 https://github.com/tswr/Fun-With-Arduino/blob/master/dht11/dht11.ino
 
